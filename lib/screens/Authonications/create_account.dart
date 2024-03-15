@@ -29,7 +29,7 @@ class CreateAccount extends StatelessWidget {
               children: [
                 Image.asset('Assets/Image/create ac.webp'),
                 Container(
-                  height: screenHeight * 0.700,
+                  height: screenHeight * 0.713,
                   width: screenWidth,
                   decoration: const BoxDecoration(
                     borderRadius: BorderRadius.only(
