@@ -29,7 +29,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace "com.examble.HouseManager"
+    namespace "com.example.pgmanager"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
